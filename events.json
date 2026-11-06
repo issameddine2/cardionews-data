@@ -1,0 +1,310 @@
+{
+  "updated": "2026-11-04",
+  "events": [
+    {
+      "id": "aha-scientific-sessions-2026",
+      "name": "AHA Scientific Sessions 2026",
+      "organizer": "American Heart Association",
+      "city": "Chicago, USA",
+      "region": "Americas",
+      "start": "2026-11-06",
+      "end": "2026-11-09",
+      "timingNote": null,
+      "summary": "The AHA's flagship meeting, with late-breaking trials across all of cardiovascular medicine.",
+      "topics": [
+        "Interventional",
+        "Structural",
+        "Heart Failure",
+        "Electrophysiology",
+        "Imaging",
+        "Prevention"
+      ],
+      "url": "https://professional.heart.org/en/meetings/scientific-sessions"
+    },
+    {
+      "id": "esc-digital-ai-summit-2026",
+      "name": "ESC Digital & AI Summit 2026",
+      "organizer": "European Society of Cardiology",
+      "city": "Basel, Switzerland",
+      "region": "Europe",
+      "start": "2026-11-12",
+      "end": "2026-11-13",
+      "timingNote": null,
+      "summary": "Digital health, artificial intelligence and data-driven cardiology.",
+      "topics": [],
+      "url": "https://www.escardio.org/events/congresses/"
+    },
+    {
+      "id": "pcr-london-valves-2026",
+      "name": "PCR London Valves 2026",
+      "organizer": "PCR",
+      "city": "London, UK",
+      "region": "Europe",
+      "start": "2026-11-22",
+      "end": "2026-11-24",
+      "timingNote": null,
+      "summary": "Course on valvular and structural heart interventions, including TAVI, mitral and tricuspid therapies.",
+      "topics": [
+        "Structural"
+      ],
+      "url": "https://www.pcronline.com"
+    },
+    {
+      "id": "eacvi-2026",
+      "name": "EACVI 2026",
+      "organizer": "ESC – EACVI",
+      "city": "Milan, Italy",
+      "region": "Europe",
+      "start": "2026-12-03",
+      "end": "2026-12-05",
+      "timingNote": null,
+      "summary": "ESC's annual imaging congress: echocardiography, cardiac CT, CMR and nuclear imaging.",
+      "topics": [
+        "Imaging"
+      ],
+      "url": "https://www.escardio.org/events/congresses/eacvi-congress/"
+    },
+    {
+      "id": "eapci-2027",
+      "name": "EAPCI 2027",
+      "organizer": "ESC – EAPCI",
+      "city": "Milan, Italy",
+      "region": "Europe",
+      "start": "2027-02-18",
+      "end": "2027-02-20",
+      "timingNote": null,
+      "summary": "Congress of the ESC's interventional cardiology association: PCI, structural interventions and complex cases.",
+      "topics": [
+        "Interventional",
+        "Structural"
+      ],
+      "url": "https://www.escardio.org/events/congresses/"
+    },
+    {
+      "id": "esc-acute-cardiovascular-care-2027",
+      "name": "ESC Acute Cardiovascular Care 2027",
+      "organizer": "ESC – ACVC",
+      "city": "Seville, Spain",
+      "region": "Europe",
+      "start": "2027-03-19",
+      "end": "2027-03-20",
+      "timingNote": null,
+      "summary": "Acute and intensive cardiac care: ACS, cardiogenic shock, arrhythmias and critical care.",
+      "topics": [
+        "Interventional",
+        "Heart Failure",
+        "Electrophysiology"
+      ],
+      "url": "https://www.escardio.org/events/congresses/"
+    },
+    {
+      "id": "ehra-2027",
+      "name": "EHRA 2027",
+      "organizer": "ESC – EHRA",
+      "city": "Helsinki, Finland",
+      "region": "Europe",
+      "start": "2027-04-11",
+      "end": "2027-04-13",
+      "timingNote": null,
+      "summary": "The European Heart Rhythm Association congress: ablation, devices, atrial fibrillation and arrhythmia care.",
+      "topics": [
+        "Electrophysiology"
+      ],
+      "url": "https://www.escardio.org/events/congresses/ehra-congress/"
+    },
+    {
+      "id": "esc-preventive-cardiology-2027",
+      "name": "ESC Preventive Cardiology 2027",
+      "organizer": "ESC – EAPC",
+      "city": "Lisbon, Portugal",
+      "region": "Europe",
+      "start": "2027-04-15",
+      "end": "2027-04-17",
+      "timingNote": null,
+      "summary": "Prevention, lipids, hypertension, risk assessment and lifestyle medicine.",
+      "topics": [
+        "Prevention"
+      ],
+      "url": "https://www.escardio.org/events/congresses/"
+    },
+    {
+      "id": "europcr-2027",
+      "name": "EuroPCR 2027",
+      "organizer": "PCR",
+      "city": "Paris, France",
+      "region": "Europe",
+      "start": "2027-05-18",
+      "end": "2027-05-21",
+      "timingNote": null,
+      "summary": "The world-leading course in interventional cardiovascular medicine, with live cases, trials and structural heart sessions.",
+      "topics": [
+        "Interventional",
+        "Structural"
+      ],
+      "url": "https://www.pcronline.com/courses/europcr"
+    },
+    {
+      "id": "heart-failure-2027",
+      "name": "Heart Failure 2027",
+      "organizer": "ESC – HFA",
+      "city": "London, UK",
+      "region": "Europe",
+      "start": "2027-05-22",
+      "end": "2027-05-25",
+      "timingNote": null,
+      "summary": "The Heart Failure Association's annual congress: trials, devices, cardiomyopathies and care pathways.",
+      "topics": [
+        "Heart Failure"
+      ],
+      "url": "https://www.escardio.org/events/congresses/heart-failure/"
+    },
+    {
+      "id": "esc-cardio-oncology-2027",
+      "name": "ESC Cardio-Oncology 2027",
+      "organizer": "European Society of Cardiology",
+      "city": "Porto, Portugal",
+      "region": "Europe",
+      "start": "2027-06-04",
+      "end": "2027-06-05",
+      "timingNote": null,
+      "summary": "Cardiovascular care of cancer patients: toxicity, surveillance and prevention.",
+      "topics": [
+        "Heart Failure",
+        "Imaging"
+      ],
+      "url": "https://www.escardio.org/events/congresses/"
+    },
+    {
+      "id": "esc-congress-2027",
+      "name": "ESC Congress 2027",
+      "organizer": "European Society of Cardiology",
+      "city": "Milan, Italy",
+      "region": "Europe",
+      "start": "2027-08-27",
+      "end": "2027-08-30",
+      "timingNote": null,
+      "summary": "The world's largest cardiology congress, with new ESC guidelines and hot line trials.",
+      "topics": [
+        "Interventional",
+        "Structural",
+        "Heart Failure",
+        "Electrophysiology",
+        "Imaging",
+        "Prevention"
+      ],
+      "url": "https://www.escardio.org/events/congresses/esc-congress/future-destinations/"
+    },
+    {
+      "id": "acc-scientific-session-acc-27",
+      "name": "ACC Scientific Session (ACC.27)",
+      "organizer": "American College of Cardiology",
+      "city": "",
+      "region": "Americas",
+      "start": null,
+      "end": null,
+      "timingNote": "Annual, usually in spring. Check website",
+      "summary": "Large US congress with late-breaking trials and new ACC/AHA guidance.",
+      "topics": [
+        "Interventional",
+        "Structural",
+        "Heart Failure",
+        "Electrophysiology",
+        "Imaging",
+        "Prevention"
+      ],
+      "url": "https://accscientificsession.acc.org"
+    },
+    {
+      "id": "heart-rhythm-2027",
+      "name": "Heart Rhythm 2027",
+      "organizer": "Heart Rhythm Society",
+      "city": "",
+      "region": "Americas",
+      "start": null,
+      "end": null,
+      "timingNote": "Annual. Check website",
+      "summary": "The Heart Rhythm Society's meeting on electrophysiology, ablation and devices.",
+      "topics": [
+        "Electrophysiology"
+      ],
+      "url": "https://www.hrsonline.org/event/heart-rhythm"
+    },
+    {
+      "id": "tct-2027",
+      "name": "TCT 2027",
+      "organizer": "Cardiovascular Research Foundation",
+      "city": "",
+      "region": "Americas",
+      "start": null,
+      "end": null,
+      "timingNote": "Annual, usually autumn (TCT 2026: 31 Oct–3 Nov, San Diego)",
+      "summary": "Major meeting on interventional and structural heart therapies, with many late-breaking trials.",
+      "topics": [
+        "Interventional",
+        "Structural",
+        "Heart Failure"
+      ],
+      "url": "https://tctconference.com/about-crf"
+    },
+    {
+      "id": "japanese-circulation-society-annual-meeting",
+      "name": "Japanese Circulation Society Annual Meeting",
+      "organizer": "Japanese Circulation Society",
+      "city": "Japan",
+      "region": "Japan",
+      "start": null,
+      "end": null,
+      "timingNote": "Annual. Check website",
+      "summary": "Japan's national cardiology congress and a major source of Asian clinical research.",
+      "topics": [
+        "Interventional",
+        "Structural",
+        "Heart Failure",
+        "Electrophysiology",
+        "Imaging",
+        "Prevention"
+      ],
+      "url": "https://www.j-circ.or.jp/english/congress/"
+    },
+    {
+      "id": "korean-society-of-cardiology-annual-meeting",
+      "name": "Korean Society of Cardiology Annual Meeting",
+      "organizer": "Korean Society of Cardiology",
+      "city": "Korea",
+      "region": "Korea",
+      "start": null,
+      "end": null,
+      "timingNote": "Annual. Check website",
+      "summary": "Annual scientific meeting of the Korean Society of Cardiology.",
+      "topics": [
+        "Interventional",
+        "Structural",
+        "Heart Failure",
+        "Electrophysiology",
+        "Imaging",
+        "Prevention"
+      ],
+      "url": "https://www.escardio.org/events/global-and-community-events/cardiac-societies-events/korea/"
+    },
+    {
+      "id": "asian-pacific-society-of-cardiology-congress",
+      "name": "Asian Pacific Society of Cardiology Congress",
+      "organizer": "APSC",
+      "city": "",
+      "region": "Rest of Asia",
+      "start": null,
+      "end": null,
+      "timingNote": "Check website",
+      "summary": "Pan-Asian congress bringing together cardiology societies from the region.",
+      "topics": [
+        "Interventional",
+        "Structural",
+        "Heart Failure",
+        "Electrophysiology",
+        "Imaging",
+        "Prevention"
+      ],
+      "url": "https://www.apscardio.org/"
+    }
+  ]
+}

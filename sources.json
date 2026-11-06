@@ -1,0 +1,12 @@
+[
+  {"name": "ESC congresses", "url": "https://www.escardio.org/events/congresses/", "organizer": "European Society of Cardiology", "allowed_domains": ["escardio.org"]},
+  {"name": "ESC Congress destinations", "url": "https://www.escardio.org/events/congresses/esc-congress/future-destinations/", "organizer": "European Society of Cardiology", "allowed_domains": ["escardio.org"]},
+  {"name": "ACC meetings", "url": "https://accscientificsession.acc.org/Information-Pages/Future-Meetings", "organizer": "American College of Cardiology", "allowed_domains": ["acc.org"]},
+  {"name": "AHA Scientific Sessions", "url": "https://professional.heart.org/en/meetings/scientific-sessions", "organizer": "American Heart Association", "allowed_domains": ["heart.org"]},
+  {"name": "EuroPCR", "url": "https://www.pcronline.com/courses/europcr", "organizer": "PCR", "allowed_domains": ["pcronline.com"]},
+  {"name": "PCR courses", "url": "https://www.pcronline.com/courses", "organizer": "PCR", "allowed_domains": ["pcronline.com"]},
+  {"name": "Heart Rhythm", "url": "https://www.hrsonline.org/event/heart-rhythm", "organizer": "Heart Rhythm Society", "allowed_domains": ["hrsonline.org"]},
+  {"name": "Japanese Circulation Society", "url": "https://www.j-circ.or.jp/english/congress/", "organizer": "Japanese Circulation Society", "allowed_domains": ["j-circ.or.jp"]},
+  {"name": "Korean Society of Cardiology", "url": "https://www.escardio.org/events/global-and-community-events/cardiac-societies-events/korea/", "organizer": "Korean Society of Cardiology", "allowed_domains": ["escardio.org", "circulation.or.kr"]},
+  {"name": "Asian Pacific Society of Cardiology", "url": "https://www.apscardio.org/", "organizer": "Asian Pacific Society of Cardiology", "allowed_domains": ["apscardio.org"]}
+]

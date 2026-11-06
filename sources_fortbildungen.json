@@ -1,0 +1,4 @@
+[
+  {"name": "DGK congresses", "url": "https://herzmedizin.de/fuer-aerzte-und-fachpersonal/dgk/kongresse", "organizer": "Deutsche Gesellschaft für Kardiologie (DGK)", "allowed_domains": ["herzmedizin.de", "dgk.org", "kardiale-bildgebung.de", "echokardiographie-leipzig.de"]},
+  {"name": "DGK Akademie", "url": "https://herzmedizin.de/fuer-aerzte-und-fachpersonal/dgk/fortbilden/dgk-akademie", "organizer": "Deutsche Gesellschaft für Kardiologie (DGK)", "allowed_domains": ["herzmedizin.de", "dgk.org"]}
+]
