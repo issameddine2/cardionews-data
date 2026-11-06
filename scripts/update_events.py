@@ -194,11 +194,11 @@ def main():
                 log.append(f"SKIP {src['name']}: page has too little text (probably needs JavaScript)")
                 continue
             msg = client.messages.create(
-                model=MODEL, max_tokens=6000,
+                model=MODEL, max_tokens=16000,
                 messages=[{"role": "user", "content": PROMPT.format(
                     url=src["url"], organizer=src["organizer"], today=today.isoformat(),
                     regions=REGIONS, topics=TOPICS, text=text)}])
-            raw = parse_json_array(msg.content[0].text)
+            raw = parse_json_array("".join(b.text for b in msg.content if b.type == "text"))
             ok = [v for v in (validate(e, src["allowed_domains"], today) for e in raw) if v]
             log.append(f"OK {src['name']}: {len(ok)} of {len(raw)} events accepted")
             fresh += ok
