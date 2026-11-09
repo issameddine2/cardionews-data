@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-09",
   "items": [
     {
       "id": "dgk-kardiale-bildgebung-2026",
@@ -22,7 +22,7 @@
       "start": "2027-03-31",
       "end": "2027-04-03",
       "note": null,
-      "summary": "Annual DGK congress under the motto '100 Jahre DGK Wissen – Innovation – Zukunft', with a junior researcher programme and sessions on several cardiology fields.",
+      "summary": "The 93rd DGK annual meeting in Mannheim, themed '100 Jahre DGK Wissen – Innovation – Zukunft', covers heart failure, arrhythmia, interventional and experimental cardiology.",
       "url": "https://herzmedizin.de/fuer-aerzte-und-fachpersonal/dgk/kongresse/93-dgk-jahrestagung"
     },
     {
@@ -34,7 +34,7 @@
       "start": "2027-06-03",
       "end": "2027-06-05",
       "note": null,
-      "summary": "In-person echocardiography congress offering hands-on user courses, honorary lectures, practice seminars and live demonstrations.",
+      "summary": "On-site echocardiography congress in Leipzig featuring practical user courses, honorary lectures, practice seminars and live-demonstration lectures.",
       "url": "https://www.echokardiographie-leipzig.de/"
     },
     {
@@ -46,7 +46,7 @@
       "start": "2027-09-30",
       "end": "2027-10-02",
       "note": null,
-      "summary": "Five congresses under one roof at the Congress Centrum Hamburg, including Kardiologie Aktuell, Deutsche Rhythmus Tage, AGIK Live, DGK-Akademie and Basic Science Meeting.",
+      "summary": "Five congresses under one roof at the Congress Centrum Hamburg: Kardiologie Aktuell, Deutsche Rhythmus Tage, AGIK Live, DGK-Akademie and Basic Science Meeting.",
       "url": "https://herzmedizin.de/fuer-aerzte-und-fachpersonal/dgk/kongresse"
     },
     {
@@ -93,8 +93,8 @@
       "format": "Exam",
       "start": null,
       "end": null,
-      "note": "No exact dates stated on the page.",
-      "summary": "The DGK-Akademie page lists the European Exam in Core Cardiology as a quicklink, without dates or further details.",
+      "note": "Dates not stated on this page.",
+      "summary": "The DGK-Akademie lists the European Exam in Core Cardiology (EECC) as an exam offer; this page gives no dates.",
       "url": "https://herzmedizin.de/fuer-aerzte-und-fachpersonal/dgk/fortbilden/european-exam-core-cardiology-eecc"
     },
     {
@@ -105,8 +105,8 @@
       "format": "Course",
       "start": null,
       "end": null,
-      "note": "No exact dates stated on the page.",
-      "summary": "The DGK-Akademie page lists Extrakorporaler Life Support (ECLS) as a quicklink, without dates or further details.",
+      "note": "Dates not stated on this page.",
+      "summary": "The DGK-Akademie Quicklinks list an Extracorporeal Life Support (ECLS) course; this page gives no dates or location.",
       "url": "https://herzmedizin.de/fuer-aerzte-und-fachpersonal/dgk/fortbilden/extrakorporaler-life-support--ecls-"
     }
   ]

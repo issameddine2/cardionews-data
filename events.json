@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-09",
   "events": [
     {
       "id": "aha-scientific-sessions-2026",
@@ -30,11 +30,10 @@
       "start": "2026-11-09",
       "end": "2026-11-11",
       "timingNote": null,
-      "summary": "A certified small-group 3-day masterclass on mitral and tricuspid TEER for echocardiographers, surgeons, and interventional cardiologists.",
+      "summary": "Certified small-group 3-day masterclass on mitral and tricuspid TEER for echocardiographers, surgeons and interventional cardiologists.",
       "topics": [
         "Structural",
-        "Interventional",
-        "Imaging"
+        "Interventional"
       ],
       "url": "https://www.pcronline.com/Courses/Alfieri-s-Bootcamp"
     },
@@ -47,7 +46,7 @@
       "start": "2026-11-12",
       "end": "2026-11-13",
       "timingNote": null,
-      "summary": "Brings global leaders and healthcare innovators together with experts across hospitals, technology, and patient advocacy to advance digital transformation.",
+      "summary": "Summit bringing together global leaders and healthcare innovators with experts across hospitals, tech, and patient advocacy to advance digital transformation.",
       "topics": [
         "Heart Failure",
         "Interventional",
@@ -60,14 +59,14 @@
     },
     {
       "id": "pre-course-on-cardiogenic-shock-eyes-on-the-pump",
-      "name": "Pre-course on cardiogenic shock - eyes on the pump",
+      "name": "Pre-Course on cardiogenic shock - eyes on the pump",
       "organizer": "PCR",
       "city": "London",
       "region": "Europe",
       "start": "2026-11-21",
       "end": "2026-11-21",
       "timingNote": null,
-      "summary": "A masterclass in London on cardiogenic shock, bringing peers together ahead of the wider Improving Heart Failure care programme.",
+      "summary": "Masterclass pre-course on cardiogenic shock held in London, bringing together peers to discuss the pump.",
       "topics": [
         "Heart Failure",
         "Interventional"
@@ -83,7 +82,7 @@
       "start": "2026-11-22",
       "end": "2026-11-24",
       "timingNote": null,
-      "summary": "A cross-disciplinary Heart Team Course focused on transcatheter therapies for all three valves.",
+      "summary": "Cross-disciplinary Heart Team Course focusing on transcatheter therapies for all three valves.",
       "topics": [
         "Structural",
         "Interventional"
@@ -114,7 +113,7 @@
       "start": "2026-12-03",
       "end": "2026-12-05",
       "timingNote": null,
-      "summary": "Unites professionals across echocardiography, cardiovascular magnetic resonance (CMR), nuclear cardiology, and cardiac computed tomography (CT).",
+      "summary": "Congress uniting professionals across echocardiography, cardiovascular magnetic resonance, nuclear cardiology, and cardiac computed tomography.",
       "topics": [
         "Imaging"
       ],
@@ -129,7 +128,7 @@
       "start": "2027-01-29",
       "end": "2027-01-30",
       "timingNote": null,
-      "summary": "A leading-edge interventional course in the Middle East where participants gather annually to share knowledge, skills and experience.",
+      "summary": "Leading-edge interventional course in the Middle East where participants share knowledge, skills and experience each year.",
       "topics": [
         "Heart Failure",
         "Interventional",
@@ -149,7 +148,7 @@
       "start": "2027-01-29",
       "end": "2027-01-30",
       "timingNote": null,
-      "summary": "A course offering peers the opportunity to share knowledge, improve skills and gain insight into the future of the field.",
+      "summary": "Course offering peers the chance to share knowledge, improve skills and gain insight into the future of valve interventions.",
       "topics": [
         "Structural",
         "Interventional"
@@ -165,7 +164,7 @@
       "start": "2027-01-29",
       "end": "2027-01-30",
       "timingNote": null,
-      "summary": "A highly practical course tailored to local practice, addressing the most prevalent issues across the African continent.",
+      "summary": "Highly practical course tailored to local practice, providing insights into the most prevalent issues on the African continent.",
       "topics": [
         "Heart Failure",
         "Interventional",
@@ -200,7 +199,7 @@
       "start": "2027-02-19",
       "end": "2027-02-21",
       "timingNote": null,
-      "summary": "An annual PCR course dedicated to valvular interventions, sharing best practice from Japan, Asia and beyond.",
+      "summary": "Annual PCR course dedicated to valvular interventions, sharing best practice from Japan, Asia and beyond.",
       "topics": [
         "Structural",
         "Interventional"
@@ -216,7 +215,7 @@
       "start": "2027-03-19",
       "end": "2027-03-20",
       "timingNote": null,
-      "summary": "This year's main theme is 'The Acute Heart Team in Action'.",
+      "summary": "Congress with the main theme 'The Acute Heart Team in Action', held in Seville.",
       "topics": [
         "Heart Failure",
         "Interventional",
@@ -236,7 +235,7 @@
       "start": "2027-04-11",
       "end": "2027-04-13",
       "timingNote": null,
-      "summary": "Advancing the science of rhythm and driving progress in heart rhythm care.",
+      "summary": "Congress advancing the science of rhythm and driving progress in heart rhythm care.",
       "topics": [
         "Electrophysiology"
       ],
@@ -251,7 +250,7 @@
       "start": "2027-04-15",
       "end": "2027-04-16",
       "timingNote": null,
-      "summary": "Three days of high-level scientific exchange in valvular disease, with LIVE cases, interactive workshops and networking in Bordeaux.",
+      "summary": "Three days of high-level scientific exchange on valvular disease, with LIVE cases, interactive workshops and networking.",
       "topics": [
         "Structural",
         "Interventional"
@@ -267,7 +266,7 @@
       "start": "2027-04-15",
       "end": "2027-04-17",
       "timingNote": null,
-      "summary": "Brings together the prevention community to turn evidence into action.",
+      "summary": "Meeting bringing together the prevention community to turn evidence into action.",
       "topics": [
         "Prevention"
       ],
@@ -282,14 +281,9 @@
       "start": "2027-05-17",
       "end": "2027-05-17",
       "timingNote": null,
-      "summary": "An educational Fellows Course for Fellows and early-stage interventionalists in Paris.",
+      "summary": "Educational Fellows Course for early-stage interventionalists and physicians at the start of their practice.",
       "topics": [
-        "Heart Failure",
-        "Interventional",
-        "Structural",
-        "Electrophysiology",
-        "Imaging",
-        "Prevention"
+        "Interventional"
       ],
       "url": "https://www.pcronline.com/Courses/PCR-Fellows-Course/Paris"
     },
@@ -302,7 +296,7 @@
       "start": "2027-05-17",
       "end": "2027-05-17",
       "timingNote": null,
-      "summary": "A meeting for key stakeholders in cardiovascular innovation to discover breakthroughs and network.",
+      "summary": "Meeting for key stakeholders in cardiovascular innovation to discover cutting-edge breakthroughs and network.",
       "topics": [
         "Interventional",
         "Structural"
@@ -318,7 +312,7 @@
       "start": "2027-05-18",
       "end": "2027-05-21",
       "timingNote": null,
-      "summary": "A world-leading course in interventional cardiovascular medicine that gathers the global community each year for shared learning.",
+      "summary": "World-leading course in interventional cardiovascular medicine that gathers the global community each year.",
       "topics": [
         "Heart Failure",
         "Interventional",
@@ -338,7 +332,7 @@
       "start": "2027-05-22",
       "end": "2027-05-25",
       "timingNote": null,
-      "summary": "Advancing the future of heart failure, together.",
+      "summary": "Congress focused on advancing the future of heart failure, together.",
       "topics": [
         "Heart Failure"
       ],
@@ -353,7 +347,7 @@
       "start": "2027-06-04",
       "end": "2027-06-05",
       "timingNote": null,
-      "summary": "Implementing excellence in Cardio-Oncology.",
+      "summary": "Congress focused on implementing excellence in cardio-oncology.",
       "topics": [
         "Heart Failure",
         "Interventional",
@@ -373,7 +367,7 @@
       "start": "2027-06-11",
       "end": "2027-06-12",
       "timingNote": null,
-      "summary": "The leading congress for nurses and allied professionals committed to advancing patient-centred cardiovascular care.",
+      "summary": "Leading congress for nurses and allied professionals committed to advancing patient-centred cardiovascular care.",
       "topics": [
         "Heart Failure",
         "Interventional",
@@ -393,7 +387,7 @@
       "start": "2027-08-27",
       "end": "2027-08-30",
       "timingNote": null,
-      "summary": "The ESC Congress 2027 takes place in Milan, Italy, from 27 to 30 August 2027.",
+      "summary": "The ESC Congress 2027 takes place in Milan, Italy, from 27 to 30 August, as a future ESC Congress destination.",
       "topics": [
         "Heart Failure",
         "Interventional",
@@ -413,24 +407,23 @@
       "start": "2027-09-23",
       "end": "2027-09-24",
       "timingNote": null,
-      "summary": "A Latin American valve course featuring LIVE educational cases, echoworkshops and practical insights for the regional valve community.",
+      "summary": "Valve course featuring LIVE educational cases and echoworkshops for Latin America's valve community.",
       "topics": [
         "Structural",
-        "Interventional",
-        "Imaging"
+        "Interventional"
       ],
       "url": "https://www.pcronline.com/Courses/PCR-Rio-Valves"
     },
     {
       "id": "acc-28",
-      "name": "ACC.28",
+      "name": "ACC.28 Annual Scientific Session & Expo",
       "organizer": "American College of Cardiology",
       "city": "Chicago, IL",
       "region": "Americas",
       "start": "2028-04-01",
       "end": "2028-04-03",
       "timingNote": null,
-      "summary": "ACC's Annual Scientific Session & Expo is scheduled for April 1–3, 2028, in Chicago, Illinois.",
+      "summary": "The American College of Cardiology's Annual Scientific Session & Expo, ACC.28, is scheduled for April 1–3, 2028, in Chicago, Illinois.",
       "topics": [
         "Heart Failure",
         "Interventional",
@@ -443,14 +436,14 @@
     },
     {
       "id": "acc-29",
-      "name": "ACC.29",
+      "name": "ACC.29 Annual Scientific Session & Expo",
       "organizer": "American College of Cardiology",
       "city": "Atlanta, GA",
       "region": "Americas",
       "start": "2029-03-10",
       "end": "2029-03-12",
       "timingNote": null,
-      "summary": "ACC's Annual Scientific Session & Expo is scheduled for March 10–12, 2029, in Atlanta, Georgia.",
+      "summary": "The American College of Cardiology's Annual Scientific Session & Expo, ACC.29, is scheduled for March 10–12, 2029, in Atlanta, Georgia.",
       "topics": [
         "Heart Failure",
         "Interventional",
